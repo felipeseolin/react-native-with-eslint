@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "gempe",
-    "slug": "gempe",
+    "name": "picpay",
+    "slug": "picpay",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -13,9 +13,10 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/splashScreen.png",
+      "backgroundColor": "#129E54",
+      "splash.backgroundColor": "#129E54",
+      "resizeMode": "contain"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
